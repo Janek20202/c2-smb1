@@ -28,23 +28,23 @@
                     </conditions>
                     <actions>
                         <action id="-10" name="Set value" sid="7952903667407651" type="VPad">
-                            <param id="0" name="Instance variable">Up</param>
+                            <param id="0" name="Instance variable">W</param>
                             <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="5778362075043926" type="VPad">
-                            <param id="0" name="Instance variable">Down</param>
+                            <param id="0" name="Instance variable">S</param>
                             <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="1846975325456939" type="VPad">
-                            <param id="0" name="Instance variable">Left</param>
+                            <param id="0" name="Instance variable">A</param>
                             <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="6738223590650882" type="VPad">
-                            <param id="0" name="Instance variable">Right</param>
+                            <param id="0" name="Instance variable">D</param>
                             <param id="1" name="Value">1</param>
                         </action>
                         <action id="-10" name="Set value" sid="6903366937478423" type="VPad">
-                            <param id="0" name="Instance variable">A</param>
+                            <param id="0" name="Instance variable">E</param>
                             <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="9193636199129137" type="VPad">
