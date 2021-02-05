@@ -136,11 +136,11 @@
             <object-type name="VPad" sid="2346176505412698">
                 <plugin id="Sprite" />
                 <instance-variables>
-                    <instance-variable name="Up" sid="4356486211727553" type="number" />
-                    <instance-variable name="Down" sid="7816994493842111" type="number" />
-                    <instance-variable name="Left" sid="7023301068693494" type="number" />
-                    <instance-variable name="Right" sid="4753642143559504" type="number" />
-                    <instance-variable name="A" sid="6096482381076228" type="number" />
+                    <instance-variable name="W" sid="4356486211727553" type="number" />
+                    <instance-variable name="S" sid="7816994493842111" type="number" />
+                    <instance-variable name="A" sid="7023301068693494" type="number" />
+                    <instance-variable name="Dt" sid="4753642143559504" type="number" />
+                    <instance-variable name="G" sid="6096482381076228" type="number" />
                     <instance-variable name="B" sid="6935095739951685" type="number" />
                     <instance-variable name="Start" sid="5471131332974368" type="number" />
                     <instance-variable name="LastUp" sid="6222635247911695" type="number" />
