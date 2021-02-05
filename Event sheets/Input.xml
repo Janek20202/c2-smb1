@@ -27,23 +27,23 @@
                     <actions>
                         <action id="-10" name="Set value" sid="4221528656819723" type="VPad">
                             <param id="0" name="Instance variable">LastUp</param>
-                            <param id="1" name="Value">VPad.Up</param>
+                            <param id="1" name="Value">VPad.W</param>
                         </action>
                         <action id="-10" name="Set value" sid="6939225973980734" type="VPad">
                             <param id="0" name="Instance variable">LastDown</param>
-                            <param id="1" name="Value">VPad.Down</param>
+                            <param id="1" name="Value">VPad.S</param>
                         </action>
                         <action id="-10" name="Set value" sid="3522144851645666" type="VPad">
                             <param id="0" name="Instance variable">LastLeft</param>
-                            <param id="1" name="Value">VPad.Left</param>
+                            <param id="1" name="Value">VPad.A</param>
                         </action>
                         <action id="-10" name="Set value" sid="9664957851057131" type="VPad">
                             <param id="0" name="Instance variable">LastRight</param>
-                            <param id="1" name="Value">VPad.Right</param>
+                            <param id="1" name="Value">VPad.D</param>
                         </action>
                         <action id="-10" name="Set value" sid="6897567628232376" type="VPad">
                             <param id="0" name="Instance variable">LastA</param>
-                            <param id="1" name="Value">VPad.A</param>
+                            <param id="1" name="Value">VPad.E</param>
                         </action>
                         <action id="-10" name="Set value" sid="4103538974302267" type="VPad">
                             <param id="0" name="Instance variable">LastB</param>
