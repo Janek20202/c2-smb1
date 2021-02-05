@@ -136,19 +136,19 @@
             <object-type name="VPad" sid="2346176505412698">
                 <plugin id="Sprite" />
                 <instance-variables>
-                    <instance-variable name="W" sid="4356486211727553" type="number" />
-                    <instance-variable name="S" sid="7816994493842111" type="number" />
-                    <instance-variable name="A" sid="7023301068693494" type="number" />
-                    <instance-variable name="Dt" sid="4753642143559504" type="number" />
-                    <instance-variable name="G" sid="6096482381076228" type="number" />
-                    <instance-variable name="B" sid="6935095739951685" type="number" />
+                    <instance-variable name="LastUp" sid="4356486211727553" type="number" />
+                    <instance-variable name="LastDown" sid="7816994493842111" type="number" />
+                    <instance-variable name="LastLeft" sid="7023301068693494" type="number" />
+                    <instance-variable name="LastRight" sid="4753642143559504" type="number" />
+                    <instance-variable name="LastA" sid="6096482381076228" type="number" />
+                    <instance-variable name="LastB" sid="6935095739951685" type="number" />
                     <instance-variable name="Start" sid="5471131332974368" type="number" />
-                    <instance-variable name="LastUp" sid="6222635247911695" type="number" />
-                    <instance-variable name="LastDown" sid="4246365025959933" type="number" />
-                    <instance-variable name="LastLeft" sid="3323316573519082" type="number" />
-                    <instance-variable name="LastRight" sid="9570972212988241" type="number" />
-                    <instance-variable name="LastA" sid="2188094290608414" type="number" />
-                    <instance-variable name="LastB" sid="6832467703867573" type="number" />
+                    <instance-variable name="W" sid="6222635247911695" type="number" />
+                    <instance-variable name="S" sid="4246365025959933" type="number" />
+                    <instance-variable name="A" sid="3323316573519082" type="number" />
+                    <instance-variable name="D" sid="9570972212988241" type="number" />
+                    <instance-variable name="G" sid="2188094290608414" type="number" />
+                    <instance-variable name="H" sid="6832467703867573" type="number" />
                     <instance-variable name="LastStart" sid="1859198852007825" type="number" />
                 </instance-variables>
                 <animation-folder>
